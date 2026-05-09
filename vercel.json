@@ -2,5 +2,8 @@
     "framework": "hugo",
     "buildCommand": "hugo --gc --minify",
     "outputDirectory": "public",
-    "installCommand": "git submodule update --init --recursive"
+    "installCommand": "git submodule update --init --recursive",
+    "env": {
+        "HUGO_VERSION": "0.144.0"
+    }
 }
