@@ -17,7 +17,7 @@ logo = "img/logo.png"
 [params.author]
 name = "Jinsong Li"
 # email = "youremail@example.com"
-image = "img/blowfish_logo.png"
+image = "img/squirrel.jpg"
 imageQuality = 96
 headline = "Technical Artist"
 # bio = "A little bit about you"
